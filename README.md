@@ -1,4 +1,4 @@
-[![Header](https://github.com/SoraRise/SoraRise/blob/master/accets/tenor%20(2).gif)](https://vk.com/hikarin.none)
+[![Header](https://github.com/SoraRise/SoraRise/blob/master/accets/tenor%20(2)%20(1).gif)](https://vk.com/hikarin.none)
 
 ### About me
 My name is Daniel: No.: No.
