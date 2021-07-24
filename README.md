@@ -1,4 +1,4 @@
-[![Header](https://tenor.com/view/no-game-no-life-gif-18476266)](https://vk.com/hikarin.none)
+[![Header](https://github.com/SoraRise/SoraRise/blob/master/accets/tenor.gif)](https://vk.com/hikarin.none)
 
 ### About me
 My name is Daniel: No.: No.
