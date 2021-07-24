@@ -1,4 +1,4 @@
-[![Header](https://github.com/hikarin8/hikarin8/blob/main/accets/208440%20(1).gif)](https://vk.com/hikarin.none)
+[![Header](https://tenor.com/view/no-game-no-life-gif-18476266)](https://vk.com/hikarin.none)
 
 ### About me
 My name is Daniel: No.: No.
