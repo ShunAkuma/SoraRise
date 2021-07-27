@@ -19,7 +19,7 @@ My name is Daniel: No.: No.
 [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/hikarin.none)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/danil.rise.33)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarin8&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoraRise&show_icons=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarin8)](https://github.com/anuraghazra/github-readme-stats)
