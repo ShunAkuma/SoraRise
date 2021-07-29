@@ -11,7 +11,9 @@ My name is Daniel: No.: No.
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=FF0000)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=FF0000)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySQL&logoColor=FFFF00)
-![certificate](https://www.credly.com/badges/608ef8f1-e500-4d45-adee-18365e09bb74/public_url)
+
+
+[![certificate](https://github.com/SoraRise/SoraRise/blob/master/accets/Capture.PNG)](https://www.credly.com/badges/608ef8f1-e500-4d45-adee-18365e09bb74/public_url)
 ### Follow Me
 
 [![TElegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=TElegram&logoColor=FF0000)](https://t.me/DanilRise)
