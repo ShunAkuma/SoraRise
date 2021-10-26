@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/giphy.gif"><p>
+<p align="center" width = "100" height = "50"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/giphy.gif"><p>
 
 ### About me
 My name is Daniel: No.: No.
