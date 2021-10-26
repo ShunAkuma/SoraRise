@@ -43,7 +43,9 @@ My name is Daniel: No.: No.
   </tr>  
 </table>
 
+<details align = "center">
+<summary>My GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoraRise&show_icons=true&theme=onedark)
 
-
+</detauls>
