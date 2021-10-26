@@ -34,18 +34,15 @@ My name is Daniel: No.: No.
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle">
-      <strong>Contact me:</strong>
+      <strong>Contact me: </strong>
     </td>  
     <td valign="middle">
-    <a href="https://t.me/DanilRise"><img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/telegram.svg"></a>
+    <a href="https://t.me/DanilRise"><img width="32" src="https://github.com/SoraRise/SoraRise/blob/master/accets/icons8-telegram-app.svg"></a>
+    <a href="https://www.instagram.com/sora_rise/"><img width="32" src="https://github.com/SoraRise/SoraRise/blob/master/accets/icons8-instagram.svg"></a>    
     </td>
   </tr>  
 </table>
 
-[![TElegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=TElegram&logoColor=FF0000)](https://t.me/DanilRise)
-[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/sora_rise/)
-[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/hikarin.none)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/danil.rise.33)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoraRise&show_icons=true&theme=onedark)
 
