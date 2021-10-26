@@ -1,18 +1,9 @@
-[![Header](https://github.com/SoraRise/SoraRise/blob/master/accets/tenor%20(2)%20(1).gif)](https://vk.com/hikarin.none)
 
-<p align="center"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/tenor%20(2)%20(1).gif"><p>
+<p align="center"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/giphy.gif"><p>
 
 ### About me
 My name is Daniel: No.: No.
 
-### Languages and Tools
-<!-- ![JavaCore](https://img.shields.io/badge/-JavaCore-090909?style=for-the-badge&logo=Java&logoColor=FFFF00)
-![JavaEE](https://img.shields.io/badge/-Java.EE-090909?style=for-the-badge&logo=Java&logoColor=FFFF00)
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=FFFF00)
-![algorithms and data structures](https://img.shields.io/badge/-algorithms-090909?style=for-the-badge&logo=algorithms&logoColor=FF0000)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=FF0000)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=FF0000)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySQL&logoColor=FFFF00) -->
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
