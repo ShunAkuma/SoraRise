@@ -30,8 +30,17 @@ My name is Daniel: No.: No.
     </td>
   </tr>  
 </table>
-[![certificate](https://github.com/SoraRise/SoraRise/blob/master/accets/Capture.PNG)](https://www.credly.com/badges/608ef8f1-e500-4d45-adee-18365e09bb74/public_url)
-### Follow Me
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <strong>Contact me:</strong>
+    </td>  
+    <td valign="middle">
+    <a href="https://t.me/DanilRise"><img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/telegram.svg"></a>
+    </td>
+  </tr>  
+</table>
 
 [![TElegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=TElegram&logoColor=FF0000)](https://t.me/DanilRise)
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/sora_rise/)
@@ -41,4 +50,3 @@ My name is Daniel: No.: No.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoraRise&show_icons=true&theme=onedark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarin8)](https://github.com/anuraghazra/github-readme-stats)
