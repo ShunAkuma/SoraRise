@@ -1,8 +1,10 @@
 
 
 <p align="center" width = "100" height = "50"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/3.gif"><p>
+
+
 ### About me
-My name is Daniel: No.: No.
+<p align ="center"> <span>About me</span> <br>My name is Daniel: No.: No.<p>
 
 
 <table align="center" cellspacing="0" cellpadding="0">
