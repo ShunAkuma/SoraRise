@@ -1,10 +1,10 @@
 
 
-<p align="center" width = "100" height = "50"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/3.gif"><p>
+<p align="center" width = "100" height = "50"><img src="https://github.com/SoraRise/SoraRise/blob/master/accets/Kimetsu%20No%20Yaiba%20Zenitsu%20GIF%20-%20Kimetsu%20No%20Yaiba%20Zenitsu%20Lightning%20-%20Discover%20%26%20Share%20GIFs.gif"><p>
 
 
-### About me
-<p align ="center"> <span>About me</span> <br>My name is Daniel: No.: No.<p>
+
+<p align ="center"> <span style="font-weight:bold"  >About me</span> <br>My name is Daniel: No.: No.<p>
 
 
 <table align="center" cellspacing="0" cellpadding="0">
